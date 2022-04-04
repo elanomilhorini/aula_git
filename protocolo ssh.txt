@@ -1,0 +1,3 @@
+Usando o protoclo SHH, você pode se conctar a servidores e serviços remotos e se autenticar
+neles.Com chaves SHH, você pode se conectar-se a GitHub sem inserir seu nome de usuario e 
+token de acesso pessoal em cada visita.
